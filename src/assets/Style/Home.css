@@ -1,0 +1,10 @@
+@media (max-width:425px){
+    img{
+        height: 100px;
+        width: 100px;
+    }
+}
+
+.explore-content{
+    background-color: #B3E5FC;
+}
