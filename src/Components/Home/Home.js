@@ -9,7 +9,7 @@ function Home() {
 
   React.useEffect(() => {
     const typed = new Typed(el.current, {
-      strings: ["yourself", "Tech skill", "your skill"],
+      strings: ["yourself", "your skill"],
       typeSpeed: 180,
     });
 
@@ -60,7 +60,7 @@ function Home() {
       <div className=" explore-content">
         <div className="my-3">
           <div className="container">
-            <h1>hello</h1>
+            <h1>ss</h1>
           </div>
         </div>
       </div>
